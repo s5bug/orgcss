@@ -1,1 +1,32 @@
 @import "https://cdn.jsdelivr.net/gh/sorenbug/orgcss/nord.css";
+
+@font-face {
+    font-family: "Victor Mono";
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Regular.css") format("opentype");
+}
+@font-face {
+    font-family: "Victor Mono";
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Bold.css") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Victor Mono";
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Italic.css") format("opentype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Victor Mono";
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-BoldItalic.css") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@import url('https://rsms.me/inter/inter.css');
+
+#content {
+    font-family: Inter, sans-serif;
+}
+
+code, pre {
+    font-family: "Victor Mono", monospace;
+}
