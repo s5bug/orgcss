@@ -2,21 +2,21 @@
 
 @font-face {
     font-family: "Victor Mono";
-    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Regular.css") format("opentype");
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Regular.otf") format("opentype");
 }
 @font-face {
     font-family: "Victor Mono";
-    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Bold.css") format("opentype");
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Bold.otf") format("opentype");
     font-weight: bold;
 }
 @font-face {
     font-family: "Victor Mono";
-    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Italic.css") format("opentype");
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-Italic.otf") format("opentype");
     font-style: italic;
 }
 @font-face {
     font-family: "Victor Mono";
-    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-BoldItalic.css") format("opentype");
+    src: url("https://cdn.jsdelivr.net/gh/sorenbug/orgcss/VictorMono-BoldItalic.otf") format("opentype");
     font-weight: bold;
     font-style: italic;
 }
