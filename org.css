@@ -26,9 +26,29 @@
 @import url('https://rsms.me/inter/inter.css');
 
 #content {
+    margin: auto;
     font-family: Inter, sans-serif;
 }
 
 code, pre {
     font-family: "Victor Mono", monospace;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+  #content {
+    width: 80%;
+    margin: auto;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+  #content {
+    width: 60%;
+    margin: auto;
+  }
+}
+@media only screen and (min-width: 1600px) {
+  #content {
+    width: 40%;
+    margin: auto;
+  }
 }
