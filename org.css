@@ -31,6 +31,14 @@ body {
     background: var(--nord0);
 }
 
+a {
+    color: var(--nord8);
+}
+
+a:visited {
+    color: var(--nord7);
+}
+
 #content {
     margin: auto;
     font-family: Inter, sans-serif;
