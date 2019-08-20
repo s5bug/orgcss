@@ -29,7 +29,7 @@
 body {
     color: var(--nord4);
     background: var(--nord0);
-    text-align: justified;
+    text-align: justify;
 }
 
 a {
